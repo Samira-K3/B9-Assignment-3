@@ -1,4 +1,8 @@
- @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap');
- body {
-    font-family: 'Manrope', sans-serif;
- }
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap");
+body {
+  font-family: "Manrope", sans-serif;
+}
+footer {
+  background-color: #131318;
+  color: #fff;
+}
